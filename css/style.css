@@ -1,0 +1,30 @@
+.box{
+	width: 100px;
+	height: 100px;
+}
+.crimson{
+	background-color: crimson;
+}
+.chocolate{
+	background-color: chocolate;
+	margin: 50px ;
+	padding: 50px;
+	border: 10px dashed lightgreen;
+}
+h1{
+	color: violet;
+}
+.span{
+	color: green;
+}
+.youtube{
+	width: 49% ;
+	height: 500px;
+}
+.frame{
+	width: 100%; 
+	height: 500px;
+}
+
+
+
